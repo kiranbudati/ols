@@ -1,0 +1,24 @@
+.user_info{
+	border:1px solid #DCEBF7
+}
+
+.left_det{
+	color:#336199;
+	background-color:#EDF3F4;
+	border-top:1px solid #F7FBFF;
+	display:table-row;
+}
+
+.info-name
+{
+	float:none;
+	width:auto;
+	text-align:left;
+	padding:6px 4px 6px 10px;
+	display:block
+}
+
+.info-value{
+	margin-left:10px;
+	display:block
+}
